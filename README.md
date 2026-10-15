@@ -1,11 +1,9 @@
-# Hi, I'm Tarik 👋
+# Tarık Çaykara
 
-Junior Software Developer
-Still early in my journey — learning and improving every day.
+Crypto operations · Internal tools
 
-**Currently focused on**
-JavaScript → React → Next.js
+For over a year at a centralized crypto exchange I traced fund flows for colleagues and built internal
+tools for several teams. I'm looking for my next operations role at a crypto company.
 
-Reach me: [LinkedIn](https://www.linkedin.com/in/tarikcaykara/) • [tarik@caykara.com](mailto:tarik@caykara.com)
-
-Thanks for stopping by!
+- LinkedIn: https://www.linkedin.com/in/tarikcaykara/
+- Email: tarik@caykara.com
