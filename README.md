@@ -1,5 +1,5 @@
 
-# Tarık Çaykara
+# Tarik Caykara
 
 **Crypto Risk & Operations · Internal Tools & Automation · Crypto Market Data**
 
