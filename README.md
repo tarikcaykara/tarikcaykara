@@ -1,7 +1,7 @@
 
 # Tarik Caykara
 
-**Crypto Risk & Operations · Internal Tools & Automation · Crypto Market Data**
+**Crypto Operations · Internal Tools & Automation · Crypto Market Data**
 
 My background includes experience in centralized crypto exchange operations, fund flow monitoring, and developing internal tools to support day-to-day workflows.
 
@@ -11,7 +11,7 @@ I'm continuing to develop my knowledge of blockchain infrastructure, decentraliz
 
 ## Areas of Focus
 
-- Crypto Risk & Treasury Operations
+- Crypto Exchange Operations
 - Internal Tools, Automation & API Integrations
 - Crypto Market Data & Trading Infrastructure
 - Blockchain, DeFi & On-chain Analytics
